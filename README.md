@@ -1,2 +1,14 @@
 # zhnow-worldcup-journal
-HTML page archive and documentation
+
+静态文件发布目录
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 输出文件
+
+- 发布产物会保存为 HTML
+- 说明文本会保存在 README
+
+## 维护方式
+
+发布程序会按配置写入文件，手动修改时请保留现有结构。
